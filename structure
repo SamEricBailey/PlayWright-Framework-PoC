@@ -1,0 +1,25 @@
+playwright-automation-framework/
+│
+├── playwright.config.ts
+├── package.json
+├── tsconfig.json
+├── README.md
+│
+├── tests/
+│   ├── ui/
+│   │   └── login.spec.ts
+│   ├── api/
+│   │   └── users.api.spec.ts
+│   └── performance/
+│       └── performance.smoke.spec.ts
+│
+├── pages/
+│   └── login.page.ts
+│
+├── utils/
+│   ├── api.helper.ts
+│   ├── performance.helper.ts
+│   └── env.ts
+│
+└── fixtures/
+    └── test-data.json
