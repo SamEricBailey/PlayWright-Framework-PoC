@@ -1,0 +1,8 @@
+import { Page } from '@playwright/test';
+
+export async function measurePageLoad(page: Page, url: string) {
+  const start = Date.now();
+  await page.goto(url);
+  const duration = Date.now() - start;
+  return duration;
+}
